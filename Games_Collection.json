@@ -1,0 +1,398 @@
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce55741a"
+  },
+  "gameId": "99865_1",
+  "gameName": "Luz roja, luz verde",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99865']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 49
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce55741b"
+  },
+  "gameId": "99865_2",
+  "gameName": "El juego de la cuerda",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99865']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 74
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce55741c"
+  },
+  "gameId": "99865_3",
+  "gameName": "Carrera de canicas",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99865']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 9
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce5574e0"
+  },
+  "gameId": "99931_1",
+  "gameName": "Luz roja, luz verde",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99931']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 19
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce5574e1"
+  },
+  "gameId": "99931_2",
+  "gameName": "El juego de la cuerda",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99931']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 61
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce5574e2"
+  },
+  "gameId": "99931_3",
+  "gameName": "Carrera de canicas",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99931']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 97
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557546"
+  },
+  "gameId": "99965_1",
+  "gameName": "Luz roja, luz verde",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99965']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 18
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557547"
+  },
+  "gameId": "99965_2",
+  "gameName": "El juego de la cuerda",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99965']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 54
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557548"
+  },
+  "gameId": "99965_3",
+  "gameName": "Carrera de canicas",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['99965']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 95
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce55766c"
+  },
+  "gameId": "100063_1",
+  "gameName": "Luz roja, luz verde",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100063']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 82
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce55766d"
+  },
+  "gameId": "100063_2",
+  "gameName": "El juego de la cuerda",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100063']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 44
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce55766e"
+  },
+  "gameId": "100063_3",
+  "gameName": "Carrera de canicas",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100063']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 43
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557693"
+  },
+  "gameId": "100076_1",
+  "gameName": "Luz roja, luz verde",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100076']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 37
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557694"
+  },
+  "gameId": "100076_2",
+  "gameName": "El juego de la cuerda",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100076']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 82
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557695"
+  },
+  "gameId": "100076_3",
+  "gameName": "Carrera de canicas",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100076']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 30
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce5576a5"
+  },
+  "gameId": "100082_1",
+  "gameName": "Luz roja, luz verde",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100082']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 37
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce5576a6"
+  },
+  "gameId": "100082_2",
+  "gameName": "El juego de la cuerda",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100082']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 14
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce5576a7"
+  },
+  "gameId": "100082_3",
+  "gameName": "Carrera de canicas",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100082']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 12
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce55796f"
+  },
+  "gameId": "100320_1",
+  "gameName": "Luz roja, luz verde",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100320']",
+  "season": 220,
+  "player_result": "Perdedor",
+  "player_score": 72
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557970"
+  },
+  "gameId": "100320_2",
+  "gameName": "El juego de la cuerda",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100320']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 35
+}
+
+{
+  "_id": {
+    "$oid": "67ad2f20e784be39ce557971"
+  },
+  "gameId": "100320_3",
+  "gameName": "Carrera de canicas",
+  "startDate": {
+    "$date": "2025-02-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "status": "Completed",
+  "playerId": "['100320']",
+  "season": 220,
+  "player_result": "Ganador",
+  "player_score": 19
+}
