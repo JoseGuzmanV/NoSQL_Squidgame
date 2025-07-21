@@ -1,0 +1,118 @@
+{
+  "_id": {
+    "$oid": "67ad2dabe784be39ce50e008"
+  },
+  "playerId": 99865,
+  "name": "001_Oh Il-nam",
+  "age": 76,
+  "status": "Eliminado",
+  "games": "[{'gameNumber': 1, 'gameName': 'Luz roja, luz verde', 'result': 'Ganador', 'score': 49}, {'gameNumber': 2, 'gameName': 'El juego de la cuerda', 'result': 'Ganador', 'score': 74}, {'gameNumber': 3, 'gameName': 'Carrera de canicas', 'result': 'Perdedor', 'score': 9}]",
+  "alliance": "['341_Ji-Woo Bo', '069_Hyo-Ji Kim', '012_Joo-Hyun Lee']",
+  "healthStatus": "Bueno",
+  "totalScore": 597,
+  "finalStageParticipation": false,
+  "temporada": 220,
+  "ganador": 0
+}
+
+{
+  "_id": {
+    "$oid": "67ad2dabe784be39ce50e04a"
+  },
+  "playerId": 99931,
+  "name": "067_Kang Sae-byeok",
+  "age": 19,
+  "status": "Eliminado",
+  "games": "[{'gameNumber': 1, 'gameName': 'Luz roja, luz verde', 'result': 'Ganador', 'score': 19}, {'gameNumber': 2, 'gameName': 'El juego de la cuerda', 'result': 'Perdedor', 'score': 61}, {'gameNumber': 3, 'gameName': 'Carrera de canicas', 'result': 'Ganador', 'score': 97}]",
+  "alliance": "['145_Soo-Ho Kwon', '072_Ji-Yoon Lee', '055_Ye-Rim Lee']",
+  "healthStatus": "Grave",
+  "totalScore": 164,
+  "finalStageParticipation": false,
+  "temporada": 220,
+  "ganador": 0
+}
+
+{
+  "_id": {
+    "$oid": "67ad2dabe784be39ce50e06c"
+  },
+  "playerId": 99965,
+  "name": "101_Jang Deok-su",
+  "age": 35,
+  "status": "Eliminado",
+  "games": "[{'gameNumber': 1, 'gameName': 'Luz roja, luz verde', 'result': 'Perdedor', 'score': 18}, {'gameNumber': 2, 'gameName': 'El juego de la cuerda', 'result': 'Ganador', 'score': 54}, {'gameNumber': 3, 'gameName': 'Carrera de canicas', 'result': 'Perdedor', 'score': 95}]",
+  "alliance": "['245_Seung-Hyun Choi']",
+  "healthStatus": "Bueno",
+  "totalScore": 2,
+  "finalStageParticipation": false,
+  "temporada": 220,
+  "ganador": 0
+}
+
+{
+  "_id": {
+    "$oid": "67ad2dabe784be39ce50e0ce"
+  },
+  "playerId": 100063,
+  "name": "199_Ali Abdul",
+  "age": 33,
+  "status": "Eliminado",
+  "games": "[{'gameNumber': 1, 'gameName': 'Luz roja, luz verde', 'result': 'Perdedor', 'score': 82}, {'gameNumber': 2, 'gameName': 'El juego de la cuerda', 'result': 'Ganador', 'score': 44}, {'gameNumber': 3, 'gameName': 'Carrera de canicas', 'result': 'Perdedor', 'score': 43}]",
+  "alliance": "['383_Yeon-Jeong Lee', '231_Jin-Seong Lee']",
+  "healthStatus": "Estable",
+  "totalScore": 137,
+  "finalStageParticipation": true,
+  "temporada": 220,
+  "ganador": 0
+}
+
+{
+  "_id": {
+    "$oid": "67ad2dabe784be39ce50e0db"
+  },
+  "playerId": 100076,
+  "name": "212_Han Mi-nyeo",
+  "age": 45,
+  "status": "Eliminado",
+  "games": "[{'gameNumber': 1, 'gameName': 'Luz roja, luz verde', 'result': 'Perdedor', 'score': 37}, {'gameNumber': 2, 'gameName': 'El juego de la cuerda', 'result': 'Perdedor', 'score': 82}, {'gameNumber': 3, 'gameName': 'Carrera de canicas', 'result': 'Ganador', 'score': 30}]",
+  "alliance": "['116_Joo-Mi Kwon']",
+  "healthStatus": "Bueno",
+  "totalScore": 637,
+  "finalStageParticipation": false,
+  "temporada": 220,
+  "ganador": 0
+}
+
+{
+  "_id": {
+    "$oid": "67ad2dabe784be39ce50e0e1"
+  },
+  "playerId": 100082,
+  "name": "218_Cho Sang-woo",
+  "age": 46,
+  "status": "Eliminado",
+  "games": "[{'gameNumber': 1, 'gameName': 'Luz roja, luz verde', 'result': 'Ganador', 'score': 37}, {'gameNumber': 2, 'gameName': 'El juego de la cuerda', 'result': 'Perdedor', 'score': 14}, {'gameNumber': 3, 'gameName': 'Carrera de canicas', 'result': 'Perdedor', 'score': 12}]",
+  "alliance": "['004_Soo Bin', '190_Jin-Ae Choi']",
+  "healthStatus": "Bueno",
+  "totalScore": 984,
+  "finalStageParticipation": true,
+  "temporada": 220,
+  "ganador": 0
+}
+
+{
+  "_id": {
+    "$oid": "67ad2dabe784be39ce50e1cf"
+  },
+  "playerId": 100320,
+  "name": "456_Seong Gi-hun",
+  "age": 47,
+  "status": "Activo",
+  "games": "[{'gameNumber': 1, 'gameName': 'Luz roja, luz verde', 'result': 'Perdedor', 'score': 72}, {'gameNumber': 2, 'gameName': 'El juego de la cuerda', 'result': 'Ganador', 'score': 35}, {'gameNumber': 3, 'gameName': 'Carrera de canicas', 'result': 'Ganador', 'score': 19}]",
+  "alliance": "['174_Ji-Ah Park', '202_Seung-Min Oh']",
+  "healthStatus": "Bueno",
+  "totalScore": 260,
+  "finalStageParticipation": true,
+  "temporada": 220,
+  "ganador": 1
+}
